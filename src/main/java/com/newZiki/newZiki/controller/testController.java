@@ -16,6 +16,6 @@ public class testController {
     @RequestMapping("/")
     public String index(){
 
-        return  "";
+        return  "sss";
     }
 }
